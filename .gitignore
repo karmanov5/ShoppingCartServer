@@ -1,0 +1,6 @@
+/.vscode
+/categories.json
+/clients.json
+/products.json
+/venv
+/__pycache__
